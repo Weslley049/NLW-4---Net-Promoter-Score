@@ -1,0 +1,13 @@
+1º AULA 
+ Configuração do ambiente: Start do projeto com yarn , instalação do express,
+		         instalação do pacote @types/express como ferramenta de desenvolvedor
+		         Instalação do ts-node-dev, criação dos scripts, instalação do proprio typescript
+
+  Criação do Server.ts : Iniciação da rotas rotas usando o express , get e Post
+	                   Adição da porta e iniciação da aplicação
+
+2º AULA
+   Configuração do ORM: Instalação do typeorm e do sqlite3, configuração do ormconfig.json 
+		       Criação das migrations usando o cli do node_modules,  criação das entidades, criação dos controllers para Anexar as regras de negocio ao controller.
+
+  Criação do banco de dados e conexão do banco ao benkeeper
